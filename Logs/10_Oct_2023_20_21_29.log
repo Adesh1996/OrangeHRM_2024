@@ -1,0 +1,60 @@
+2023-10-10 20:21:29 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:21:41 INFO  123456|Test:40 - Started execuation of scenerio : > ***** 123456|Test *****
+2023-10-10 20:21:41 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-10-10 20:21:41 INFO  457896|Test file upload:40 - Started execuation of scenerio : > ***** 457896|Test file upload *****
+2023-10-10 20:21:41 INFO  457896|Test file upload:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:21:41 INFO  457896|Test file upload:54 - Couldn't capture screenshot
+2023-10-10 20:21:41 INFO  457896|Test file upload:64 - Finished execuation of scenario : > *****457896|Test file upload *****
+2023-10-10 20:21:41 INFO  457896|Test file upload:65 - [ closing driver ]
+2023-10-10 20:21:41 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:21:45 INFO  124578|Test dashboard widget:40 - Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+2023-10-10 20:23:50 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:23:51 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:23:51 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:23:53 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:23:54 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:23:54 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:23:58 INFO  124578|Test dashboard widget:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:24:00 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:24:01 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:24:01 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:24:02 INFO  OrangeWebElement:62 - Clicking on Leave
+2023-10-10 20:24:07 INFO  OrangeWebElement:62 - Clicking on Performance
+2023-10-10 20:24:10 INFO  OrangeWebElement:62 - Clicking on Reports
+2023-10-10 20:24:10 INFO  OrangeWebElement:62 - Clicking on Leave Entitlements and Usage Report
+2023-10-10 20:24:10 INFO  OrangeWebElement:62 - Clicking on Ahmed Ali
+2023-10-10 20:24:11 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 20:24:13 INFO  124578|Test dashboard widget:64 - Finished execuation of scenario : > *****124578|Test dashboard widget *****
+2023-10-10 20:24:13 INFO  124578|Test dashboard widget:65 - [ closing driver ]
+2023-10-10 20:24:14 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:24:19 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-10-10 20:25:23 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:25:23 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:25:24 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:25:29 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-10-10 20:26:10 INFO  123456|Test:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:26:11 INFO  125689|Test report steps:64 - Finished execuation of scenario : > *****125689|Test report steps *****
+2023-10-10 20:26:11 INFO  125689|Test report steps:65 - [ closing driver ]
+2023-10-10 20:26:12 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:26:15 INFO  111|Test browser methods:40 - Started execuation of scenerio : > ***** 111|Test browser methods *****
+2023-10-10 20:26:16 INFO  OrangeWebElement:62 - Clicking on Ahmed Ali
+2023-10-10 20:26:17 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 20:26:20 INFO  123456|Test:64 - Finished execuation of scenario : > *****123456|Test *****
+2023-10-10 20:26:20 INFO  123456|Test:65 - [ closing driver ]
+2023-10-10 20:26:20 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:26:23 ERROR OrangeUtils:405 - ***** Test Case: 1111|Test through consoleNot found in Test Data sheet for environment : orangeHrm . Please add an entry of this test case.*****
+2023-10-10 20:26:23 INFO  1111|Test through console:40 - Started execuation of scenerio : > ***** 1111|Test through console *****
+2023-10-10 20:26:23 INFO  1111|Test through console:64 - Finished execuation of scenario : > *****1111|Test through console *****
+2023-10-10 20:26:23 INFO  1111|Test through console:65 - [ closing driver ]
+2023-10-10 20:26:49 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:26:50 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:26:50 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:26:57 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-10-10 20:27:01 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:27:34 INFO  124578789456|Test table methods:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:27:38 INFO  111|Test browser methods:64 - Finished execuation of scenario : > *****111|Test browser methods *****
+2023-10-10 20:27:38 INFO  111|Test browser methods:65 - [ closing driver ]
+2023-10-10 20:27:48 INFO  OrangeWebElement:62 - Clicking on Ahmed Ali
+2023-10-10 20:27:48 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 20:27:49 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-10-10 20:27:49 INFO  124578789456|Test table methods:65 - [ closing driver ]

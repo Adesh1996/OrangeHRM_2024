@@ -1,0 +1,16 @@
+[Service-0]19/Jan/2024 09:26:40 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0]19/Jan/2024 09:26:49 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-0]19/Jan/2024 09:26:56 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:27:12 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-0]19/Jan/2024 09:27:12 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]19/Jan/2024 09:27:12 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]19/Jan/2024 09:27:14 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:27:30 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave
+[Service-0]19/Jan/2024 09:27:33 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:27:53 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:28:11 PM INFO  [  OrangeWebElement.java] -> Clicking on Reports
+[Service-0]19/Jan/2024 09:28:11 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave Entitlements and Usage Report
+[Service-0]19/Jan/2024 09:28:12 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:30:27 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:30:42 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-0]19/Jan/2024 09:30:42 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

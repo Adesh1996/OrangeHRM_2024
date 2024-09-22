@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-19T21:48:59 IST" name="Suite" finished-at="2024-01-19T21:52:48 IST" duration-ms="228643">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-01-19T21:48:59 IST" name="Test" finished-at="2024-01-19T21:52:48 IST" duration-ms="228643">
+      <class name="com.orangeHRM.runner.RunCucumberTest">
+        <test-method is-config="true" signature="flushExcelReport()[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:48:58 IST" name="flushExcelReport" finished-at="2024-01-19T21:48:59 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushExcelReport -->
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:48:59 IST" name="setUpClass" finished-at="2024-01-19T21:49:01 IST" duration-ms="1231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2af69643]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:49:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-01-19T21:51:02 IST" duration-ms="121040" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["123456|Test"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test me"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:49:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-01-19T21:50:21 IST" duration-ms="80123" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["124578|Test dashboard widget"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test me"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <p class="oxd-text oxd-text--p" data-v-7b563373="" data-v-267ef1b2="">...</p> is not clickable at point (871, 8). Other element would receive the click: <div class="oxd-topbar-header-title" data-v-f0c5131f="">...</div>
+  (Session info: chrome=120.0.6099.131)
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e5d63fbec5a0440d3231d9fc46e4232a, clickElement {id=E917198AEDBF3972BB8F26678F3EAD87_element_36}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55946/devtoo..., se:cdpVersion: 120.0.6099.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (e5d63fbec5a0440d3231d9fc46e4232a)] -> xpath: //*[normalize-space()='My Actions']/ancestor::div[@class='oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget']//div[@class='oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget']]] -> xpath: .//p]
+Session ID: e5d63fbec5a0440d3231d9fc46e4232a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="oxd-text oxd-text--p" data-v-7b563373="" data-v-267ef1b2="">...</p> is not clickable at point (871, 8). Other element would receive the click: <div class="oxd-topbar-header-title" data-v-f0c5131f="">...</div>
+  (Session info: chrome=120.0.6099.131)
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e5d63fbec5a0440d3231d9fc46e4232a, clickElement {id=E917198AEDBF3972BB8F26678F3EAD87_element_36}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55946/devtoo..., se:cdpVersion: 120.0.6099.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (e5d63fbec5a0440d3231d9fc46e4232a)] -> xpath: //*[normalize-space()='My Actions']/ancestor::div[@class='oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget']//div[@class='oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget']]] -> xpath: .//p]
+Session ID: e5d63fbec5a0440d3231d9fc46e4232a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at com.orangeHRM.stepdefs.HomeOfficeSteps.user_selects_link_with_index_in_dashboard_widget(HomeOfficeSteps.java:29)
+at ✽.user selects link with index "1" in dashboard widget "DashboardPage.widgetMyActions"(file:///G:/Cucumber_Framework/OrangeHRMProject/src/test/resources/FA_Regression_Suite/OrangeHRM/FA_Dashboard/Test.feature:46)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:49:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-01-19T21:52:36 IST" duration-ms="214845" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["125689|Test report steps"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test me"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:50:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-01-19T21:52:46 IST" duration-ms="145462" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["124578789456|Test table methods"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test me"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button type="button" class="oxd-button oxd-button--medium oxd-button--text oxd-table-cell-action-space" data-v-10d463b7="" data-v-c423d1fa="">...</button> is not clickable at point (1290, 113). Other element would receive the click: <div class="oxd-topbar-body" data-v-f0c5131f="">...</div>
+  (Session info: chrome=120.0.6099.131)
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9afd39d3fb2e7aaef18171ee55be984b, clickElement {id=3BF15DB3C1E1A48E7EEB23E0449109CE_element_112}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56055}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56055/devtoo..., se:cdpVersion: 120.0.6099.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (9afd39d3fb2e7aaef18171ee55be984b)] -> xpath: //div[@role='table']]] -> xpath: //div[text()='Charlie  Carter']//parent::div//parent::div[@role='row']//div//button]
+Session ID: 9afd39d3fb2e7aaef18171ee55be984b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" class="oxd-button oxd-button--medium oxd-button--text oxd-table-cell-action-space" data-v-10d463b7="" data-v-c423d1fa="">...</button> is not clickable at point (1290, 113). Other element would receive the click: <div class="oxd-topbar-body" data-v-f0c5131f="">...</div>
+  (Session info: chrome=120.0.6099.131)
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9afd39d3fb2e7aaef18171ee55be984b, clickElement {id=3BF15DB3C1E1A48E7EEB23E0449109CE_element_112}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56055}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56055/devtoo..., se:cdpVersion: 120.0.6099.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (9afd39d3fb2e7aaef18171ee55be984b)] -> xpath: //div[@role='table']]] -> xpath: //div[text()='Charlie  Carter']//parent::div//parent::div[@role='row']//div//button]
+Session ID: 9afd39d3fb2e7aaef18171ee55be984b
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at com.orangeHRM.stepdefs.OrangeTableSteps.user_clicks_on_link_coresponding_to_text_in_table(OrangeTableSteps.java:109)
+at ✽.user clicks on link " View " corresponding to text "Charlie  Carter" in table "TimePage.tableTimesheetsPendingAction"(file:///G:/Cucumber_Framework/OrangeHRMProject/src/test/resources/FA_Regression_Suite/OrangeHRM/FA_Dashboard/Test.feature:64)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:52:46 IST" name="tearDownClass" finished-at="2024-01-19T21:52:48 IST" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="openReport()[pri:0, instance:com.orangeHRM.runner.RunCucumberTest@740fb309]" started-at="2024-01-19T21:52:48 IST" name="openReport" finished-at="2024-01-19T21:52:51 IST" duration-ms="2585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openReport -->
+      </class> <!-- com.orangeHRM.runner.RunCucumberTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

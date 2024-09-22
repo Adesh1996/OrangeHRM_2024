@@ -1,0 +1,4 @@
+2023-10-10 20:53:32 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:53:44 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-10-10 20:53:44 INFO  457896|Test file upload:40 - Started execuation of scenerio : > ***** 457896|Test file upload *****
+2023-10-10 20:53:44 INFO  123456|Test:40 - Started execuation of scenerio : > ***** 123456|Test *****

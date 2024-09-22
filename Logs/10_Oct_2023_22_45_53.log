@@ -1,0 +1,33 @@
+2023-10-10 22:45:54 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:46:15 INFO  457896|Test file upload:40 - Started execuation of scenerio : > ***** 457896|Test file upload *****
+2023-10-10 22:46:15 INFO  123456|Test:40 - Started execuation of scenerio : > ***** 123456|Test *****
+2023-10-10 22:46:15 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-10-10 22:49:16 INFO  123456|Test:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:49:16 INFO  125689|Test report steps:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:49:16 INFO  457896|Test file upload:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:52:29 INFO  123456|Test:64 - Finished execuation of scenario : > *****123456|Test *****
+2023-10-10 22:52:29 INFO  123456|Test:65 - [ closing driver ]
+2023-10-10 22:52:29 INFO  457896|Test file upload:64 - Finished execuation of scenario : > *****457896|Test file upload *****
+2023-10-10 22:52:29 INFO  457896|Test file upload:65 - [ closing driver ]
+2023-10-10 22:52:30 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:52:30 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:52:34 INFO  125689|Test report steps:64 - Finished execuation of scenario : > *****125689|Test report steps *****
+2023-10-10 22:52:34 INFO  125689|Test report steps:65 - [ closing driver ]
+2023-10-10 22:52:36 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-10-10 22:52:37 INFO  124578|Test dashboard widget:40 - Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+2023-10-10 22:52:38 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:52:42 INFO  111|Test browser methods:40 - Started execuation of scenerio : > ***** 111|Test browser methods *****
+2023-10-10 22:55:36 INFO  124578789456|Test table methods:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:55:37 INFO  124578|Test dashboard widget:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:55:42 INFO  111|Test browser methods:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 22:59:35 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-10-10 22:59:35 INFO  124578789456|Test table methods:65 - [ closing driver ]
+2023-10-10 22:59:36 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:59:40 INFO  124578|Test dashboard widget:64 - Finished execuation of scenario : > *****124578|Test dashboard widget *****
+2023-10-10 22:59:40 INFO  124578|Test dashboard widget:65 - [ closing driver ]
+2023-10-10 22:59:45 INFO  111|Test browser methods:64 - Finished execuation of scenario : > *****111|Test browser methods *****
+2023-10-10 22:59:45 INFO  111|Test browser methods:65 - [ closing driver ]
+2023-10-10 22:59:49 ERROR OrangeUtils:405 - ***** Test Case: 1111|Test through consoleNot found in Test Data sheet for environment : orangeHrm . Please add an entry of this test case.*****
+2023-10-10 22:59:49 INFO  1111|Test through console:40 - Started execuation of scenerio : > ***** 1111|Test through console *****
+2023-10-10 22:59:49 INFO  1111|Test through console:64 - Finished execuation of scenario : > *****1111|Test through console *****
+2023-10-10 22:59:49 INFO  1111|Test through console:65 - [ closing driver ]

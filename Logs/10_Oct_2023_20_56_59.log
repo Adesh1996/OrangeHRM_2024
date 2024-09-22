@@ -1,0 +1,341 @@
+2023-10-10 21:58:38 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 21:59:05 INFO  457896|Test file upload:40 - Started execuation of scenerio : > ***** 457896|Test file upload *****
+2023-10-10 21:59:05 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-10-10 21:59:05 INFO  123456|Test:40 - Started execuation of scenerio : > ***** 123456|Test *****
+2023-10-10 22:00:27 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:00:28 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:00:28 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:00:41 INFO  OrangeWebElement:62 - Clicking on My Info
+2023-10-10 22:00:58 INFO  OrangeWebElement:62 - Clicking on Personal Details
+2023-10-10 22:01:03 INFO  OrangeWebElement:62 - Clicking on Add
+2023-10-10 22:01:08 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:01:08 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:01:08 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:01:10 INFO  457896|Test file upload:64 - Finished execuation of scenario : > *****457896|Test file upload *****
+2023-10-10 22:01:10 INFO  457896|Test file upload:65 - [ closing driver ]
+2023-10-10 22:01:11 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:01:14 INFO  OrangeWebElement:62 - Clicking on Leave
+2023-10-10 22:01:15 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:01:17 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:01:19 INFO  124578|Test dashboard widget:40 - Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+2023-10-10 22:01:20 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:01:22 INFO  OrangeWebElement:62 - Clicking on Reports
+2023-10-10 22:01:22 INFO  OrangeWebElement:62 - Clicking on Leave Entitlements and Usage Report
+2023-10-10 22:01:24 INFO  OrangeWebElement:62 - Clicking on Performance
+2023-10-10 22:01:28 INFO  OrangeWebElement:62 - Clicking on 
+2023-10-10 22:01:29 INFO  OrangeWebElement:62 - Clicking on 2023
+2023-10-10 22:01:34 INFO  OrangeUtils:658 - Click using JS on 2021
+2023-10-10 22:01:34 INFO  OrangeWebElement:62 - Clicking on January
+2023-10-10 22:01:38 INFO  OrangeUtils:658 - Click using JS on December
+2023-10-10 22:01:40 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:01:40 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:01:40 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:01:42 INFO  OrangeUtils:658 - Click using JS on 5
+2023-10-10 22:01:42 INFO  OrangeWebElement:62 - Clicking on 
+2023-10-10 22:01:44 INFO  OrangeWebElement:62 - Clicking on 2023
+2023-10-10 22:01:48 INFO  OrangeUtils:658 - Click using JS on 2022
+2023-10-10 22:01:48 INFO  OrangeWebElement:62 - Clicking on December
+2023-10-10 22:01:50 INFO  OrangeWebElement:62 - Clicking on paul Collings
+2023-10-10 22:01:51 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 22:01:52 INFO  124578|Test dashboard widget:64 - Finished execuation of scenario : > *****124578|Test dashboard widget *****
+2023-10-10 22:01:52 INFO  124578|Test dashboard widget:65 - [ closing driver ]
+2023-10-10 22:01:53 INFO  OrangeUtils:658 - Click using JS on December
+2023-10-10 22:01:53 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:01:56 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-10-10 22:01:57 INFO  OrangeUtils:658 - Click using JS on 5
+2023-10-10 22:01:57 INFO  123456|Test:64 - Finished execuation of scenario : > *****123456|Test *****
+2023-10-10 22:01:57 INFO  123456|Test:65 - [ closing driver ]
+2023-10-10 22:01:57 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:02:01 INFO  111|Test browser methods:40 - Started execuation of scenerio : > ***** 111|Test browser methods *****
+2023-10-10 22:02:28 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:02:28 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:02:28 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 22:02:29 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 22:02:29 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:02:29 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 22:02:34 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-10-10 22:02:34 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-10-10 22:02:37 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:02:40 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-10-10 22:02:41 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-10-10 22:02:42 INFO  OrangeWebElement:62 - Clicking on Time
+2023-10-10 22:03:07 INFO  OrangeWebElement:62 - Clicking on PIM
+2023-10-10 22:03:15 INFO  OrangeTableElement:161 - Captured elements of column : First (& Middle) Name
+2023-10-10 22:03:18 INFO  OrangeUtils:685 - Scrolling on Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+paul Collings
+Configuration
+Employee List
+Add Employee
+Reports
+Employee Information
+Employee Name
+Employee Id
+Employment Status
+-- Select --
+Include
+Current Employees Only
+Supervisor Name
+Job Title
+-- Select --
+Sub Unit
+-- Select --
+Reset
+Search
+
+Add
+(94) Records Found
+Id
+First (& Middle) Name
+Last Name
+Job Title
+Employment Status
+Sub Unit
+Supervisor
+Actions
+0038
+Aaliyah
+Haq
+QA Lead
+Full-Time Permanent
+Quality Assurance
+Odis Adalwin
+0300
+Adam clinton
+marsh
+0291
+Adam clinton
+marsh
+0296
+Adam clinton
+marsh
+0288
+Adam clinton
+marsh
+0283
+Adam clinton
+marsh
+0305
+Adam clinton
+marsh
+0302
+Adam clinton
+marsh
+0299
+Adam clinton
+marsh
+0293
+Adam clinton
+marsh
+0285
+Adam clinton
+marsh
+0276
+Adam clinton
+marsh
+0295
+Adam clinton
+marsh
+0298
+Adam clinton
+marsh
+0284
+Adam clinton
+marsh
+0286
+Adam clinton
+marsh
+0280
+Adam clinton
+marsh
+0278
+Adam clinton
+marsh
+0221
+Alice
+Duval
+Account Assistant
+Full-Time Contract
+Finance
+Kevin Mathews
+0251777
+Andrei Vlademir
+Ionescu
+0253777
+Andrei Vlademir
+Ionescu
+78637
+Angelika Lashanda
+Wehner
+0070
+Anthony
+Nolan
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+03045
+Automation
+FC
+0287
+Bogdan
+Sandu
+0046
+Cassidy
+Hope
+IT Manager
+Part-Time Contract
+TechOps
+Odis Adalwin
+0204
+Cecil
+Bonaparte
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0212
+Charlie
+Carter
+QA Engineer
+Full-Time Probation
+Quality Assurance
+Aaliyah Haq
+0217
+Chenzira
+Chuki
+QA Engineer
+Full-Time Permanent
+Quality Assurance
+Aaliyah Haq
+06138
+Collin Dwayne
+Heaney
+0066
+David
+Morris
+Account Assistant
+Full-Time Permanent
+Finance
+Kevin Mathews
+0275
+Derek Obied
+Melendez
+0020
+Dominic
+Chase
+VP - Client Services
+Full-Time Permanent
+Administration
+John Smith
+0306
+dwq dq
+wd
+0227
+Ehioze
+Ebo
+Account Assistant
+Full-Time Probation
+Finance
+Kevin Mathews
+54572
+Emely Bunny
+Hodkiewicz
+08803
+Enoch Laila
+Goldner
+0029
+Fiona
+Grace
+Software Architect
+Full-Time Permanent
+Development
+Odis Adalwin
+0099
+Garry
+White
+HR Associate
+Full-Time Permanent
+Human Resources
+paul Collings
+66270
+Ginny Ezequiel
+Keebler
+0235
+Goutam
+Ganesh
+Sales Representative
+Full-Time Permanent
+Sales
+Linda Anderson
+0256
+Haritha Koorkkaparambil
+Rajeev
+0263
+Haritha Koorkkaparambil
+Rajeev
+0280
+Haritha Koorkkaparambil
+Rajeev
+30184
+Ira Pilar
+Friesen
+0095
+Jacqueline
+White
+Support Specialist
+Full-Time Contract
+Technical Support
+Dominic Chase
+0243
+Jadine
+Jackie
+HR Associate
+Full-Time Probation
+Human Resources
+paul Collings
+0062
+Jasmine
+Morgan
+Financial Analyst
+Full-Time Probation
+Finance
+Kevin Mathews
+0083
+Joe
+Root
+Content Specialist
+Full-Time Probation
+Marketing
+Melan Peiris
+02760611
+John John
+Doe
+1
+2
+OrangeHRM OS 5.5
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-10-10 22:03:20 INFO  111|Test browser methods:64 - Finished execuation of scenario : > *****111|Test browser methods *****
+2023-10-10 22:03:20 INFO  111|Test browser methods:65 - [ closing driver ]
+2023-10-10 22:03:21 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 22:03:21 INFO  OrangeWebElement:62 - Clicking on paul Collings
+2023-10-10 22:03:21 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 22:03:24 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-10-10 22:03:24 INFO  124578789456|Test table methods:65 - [ closing driver ]
+2023-10-10 22:03:25 ERROR OrangeUtils:405 - ***** Test Case: 1111|Test through consoleNot found in Test Data sheet for environment : orangeHrm . Please add an entry of this test case.*****
+2023-10-10 22:03:25 INFO  1111|Test through console:40 - Started execuation of scenerio : > ***** 1111|Test through console *****
+2023-10-10 22:03:25 INFO  1111|Test through console:64 - Finished execuation of scenario : > *****1111|Test through console *****
+2023-10-10 22:03:25 INFO  1111|Test through console:65 - [ closing driver ]
+2023-10-10 22:03:25 INFO  125689|Test report steps:64 - Finished execuation of scenario : > *****125689|Test report steps *****
+2023-10-10 22:03:25 INFO  125689|Test report steps:65 - [ closing driver ]

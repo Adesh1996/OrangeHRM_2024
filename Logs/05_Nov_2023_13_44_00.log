@@ -1,0 +1,380 @@
+[Service-1]05/Nov/2023 01:44:01 PM INFO  [    HeadlessDriver.java] -> [ Initializing Headless chrome driver ]
+[Service-0]05/Nov/2023 01:44:21 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 123456|Test *****
+[Service-1]05/Nov/2023 01:44:21 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-2]05/Nov/2023 01:44:21 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+[Service-2]05/Nov/2023 01:44:38 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-1]05/Nov/2023 01:44:38 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]05/Nov/2023 01:44:39 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]05/Nov/2023 01:44:39 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]05/Nov/2023 01:44:39 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1]05/Nov/2023 01:44:39 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]05/Nov/2023 01:44:39 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]05/Nov/2023 01:44:40 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1]05/Nov/2023 01:44:40 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1]05/Nov/2023 01:44:57 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave
+[Service-0]05/Nov/2023 01:44:58 PM INFO  [  OrangeWebElement.java] -> Clicking on Performance
+[Service-0]05/Nov/2023 01:45:03 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-2]05/Nov/2023 01:45:04 PM INFO  [  OrangeWebElement.java] -> Clicking on Paul Collings
+[Service-2]05/Nov/2023 01:45:05 PM INFO  [  OrangeWebElement.java] -> Clicking on Logout
+[Service-1]05/Nov/2023 01:45:05 PM INFO  [  OrangeWebElement.java] -> Clicking on Reports
+[Service-0]05/Nov/2023 01:45:05 PM INFO  [  OrangeWebElement.java] -> Clicking on 2023
+[Service-1]05/Nov/2023 01:45:06 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave Entitlements and Usage Report
+[Service-2]05/Nov/2023 01:45:07 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578|Test dashboard widget *****
+[Service-2]05/Nov/2023 01:45:07 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-2]05/Nov/2023 01:45:08 PM INFO  [    HeadlessDriver.java] -> [ Initializing Headless chrome driver ]
+[Service-0]05/Nov/2023 01:45:10 PM INFO  [       OrangeUtils.java] -> Click using JS on 2021
+[Service-0]05/Nov/2023 01:45:11 PM INFO  [  OrangeWebElement.java] -> Clicking on January
+[Service-2]05/Nov/2023 01:45:15 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+[Service-0]05/Nov/2023 01:45:16 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-0]05/Nov/2023 01:45:20 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]05/Nov/2023 01:45:21 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-0]05/Nov/2023 01:45:25 PM INFO  [  OrangeWebElement.java] -> Clicking on 2023
+[Service-2]05/Nov/2023 01:45:26 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]05/Nov/2023 01:45:26 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-2]05/Nov/2023 01:45:27 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]05/Nov/2023 01:45:29 PM INFO  [       OrangeUtils.java] -> Click using JS on 2022
+[Service-0]05/Nov/2023 01:45:30 PM INFO  [  OrangeWebElement.java] -> Clicking on December
+[Service-2]05/Nov/2023 01:45:31 PM INFO  [  OrangeWebElement.java] -> Clicking on Recruitment
+[Service-0]05/Nov/2023 01:45:34 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-0]05/Nov/2023 01:45:39 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]05/Nov/2023 01:45:40 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[Service-0]05/Nov/2023 01:45:40 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-2]05/Nov/2023 01:45:41 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-2]05/Nov/2023 01:45:42 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-2]05/Nov/2023 01:45:43 PM INFO  [  OrangeWebElement.java] -> Clicking on Time
+[Service-2]05/Nov/2023 01:46:05 PM INFO  [  OrangeWebElement.java] -> Clicking on PIM
+[Service-2]05/Nov/2023 01:46:11 PM INFO  [OrangeTableElement.java] -> Captured elements of column : First (& Middle) Name
+[Service-2]05/Nov/2023 01:46:14 PM INFO  [       OrangeUtils.java] -> Scrolling on Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+Paul Collings
+Configuration
+Employee List
+Add Employee
+Reports
+Employee Information
+Employee Name
+Employee Id
+Employment Status
+-- Select --
+Include
+Current Employees Only
+Supervisor Name
+Job Title
+-- Select --
+Sub Unit
+-- Select --
+Reset
+Search
+
+Add
+(48) Records Found
+Id
+First (& Middle) Name
+Last Name
+Job Title
+Employment Status
+Sub Unit
+Supervisor
+Actions
+0038
+Aaliyah
+Haq
+QA Lead
+Full-Time Permanent
+Quality Assurance
+Odis Adalwin
+0221
+Alice
+Duval
+Account Assistant
+Full-Time Contract
+Finance
+Kevin Mathews
+0253777
+Andrei Vlademir
+Ionescu
+0251777
+Andrei Vlademir
+Ionescu
+0070
+Anthony
+Nolan
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+0046
+Cassidy
+Hope
+IT Manager
+Part-Time Contract
+TechOps
+Odis Adalwin
+0204
+Cecil
+Bonaparte
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0212
+Charlie
+Carter
+QA Engineer
+Full-Time Probation
+Quality Assurance
+Aaliyah Haq
+0217
+Chenzira
+Chuki
+QA Engineer
+Full-Time Permanent
+Quality Assurance
+Aaliyah Haq
+0066
+David
+Morris
+Account Assistant
+Full-Time Permanent
+Finance
+Kevin Mathews
+0020
+Dominic
+Chase
+VP - Client Services
+Full-Time Permanent
+Administration
+John Smith
+0227
+Ehioze
+Ebo
+Account Assistant
+Full-Time Probation
+Finance
+Kevin Mathews
+0029
+Fiona
+Grace
+Software Architect
+Full-Time Permanent
+Development
+Odis Adalwin
+0099
+Garry
+White
+HR Associate
+Full-Time Permanent
+Human Resources
+Paul Collings
+0235
+Goutam
+Ganesh
+Sales Representative
+Full-Time Permanent
+Sales
+Linda Anderson
+0095
+Jacqueline
+White
+Support Specialist
+Full-Time Contract
+Technical Support
+Dominic Chase
+0243
+Jadine
+Jackie
+HR Associate
+Full-Time Probation
+Human Resources
+Paul Collings
+0062
+Jasmine
+Morgan
+Financial Analyst
+Full-Time Probation
+Finance
+Kevin Mathews
+0083
+Joe
+Root
+Content Specialist
+Full-Time Probation
+Marketing
+Melan Peiris
+0011
+John
+Smith
+Chief Executive Officer
+Full-Time Permanent
+Administration
+0054
+Jordan
+Mathews
+Database Administrator
+Full-Time Contract
+TechOps
+Cassidy Hope
+0254
+Jyoti
+Jadhav
+0058
+Kevin
+Mathews
+Finance Manager
+Full-Time Permanent
+Finance
+Peter Anderson
+0239
+Kiyara
+Hu
+HR Associate
+Full-Time Permanent
+Human Resources
+Paul Collings
+0016
+Linda Jane
+Anderson
+VP - Sales & Marketing
+Full-Time Permanent
+Administration
+John Smith
+0208
+Lisa
+Andrews
+Software Engineer
+Full-Time Probation
+Development
+Fiona Grace
+0091
+Luke
+Wright
+Head of Support
+Full-Time Permanent
+Technical Support
+Dominic Chase
+0050
+Maggie
+Manning
+Network Administrator
+Full-Time Probation
+TechOps
+Cassidy Hope
+0078
+Melan
+Peiris
+Social Media Marketer
+Full-Time Permanent
+Marketing
+Linda Anderson
+1224
+min is
+nguyen
+mohan
+k
+IT Manager
+0257
+nadian
+melhem
+0231
+Nathan
+Elliot
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+0256
+newtest
+user
+0074
+Nina
+Patel
+Pre-Sales Coordinator
+Full-Time Contract
+Sales
+Anthony Nolan
+0002
+Odis
+Adalwin
+Chief Technical Officer
+Full-Time Permanent
+Administration
+John Smith
+0001
+Orange
+Test
+0024
+Paul
+Collings
+HR Manager
+Full-Time Permanent
+Human Resources
+John Smith
+0007
+Peter Mac
+Anderson
+Chief Financial Officer
+Full-Time Probation
+Administration
+John Smith
+0247
+Rahul Mulge
+Patil
+3322
+Ravi M
+B
+0042
+Rebecca
+Harmony
+QA Engineer
+Full-Time Contract
+Quality Assurance
+Aaliyah Haq
+0034
+Russel
+Hamilton
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0087
+Sania
+Shaheen
+Customer Success Manager
+Full-Time Permanent
+Technical Support
+Dominic Chase
+0103
+Sara
+Tencrady
+Payroll Administrator
+Full-Time Permanent
+Human Resources
+Paul Collings
+1234
+taylor
+nguyen
+0260
+test
+test
+0249
+Virat
+Kohli
+OrangeHRM OS 5.5
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[Service-2]05/Nov/2023 01:46:20 PM INFO  [  OrangeWebElement.java] -> Clicking on Paul Collings
+[Service-2]05/Nov/2023 01:46:21 PM INFO  [  OrangeWebElement.java] -> Clicking on Logout
+[Service-2]05/Nov/2023 01:46:22 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578789456|Test table methods *****
+[Service-2]05/Nov/2023 01:46:22 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1]05/Nov/2023 01:47:08 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-1]05/Nov/2023 01:47:08 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

@@ -1,0 +1,66 @@
+[Service-0] 21/May/2023 07:50:00 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [InternalLoggerFactory.java] -> Using Log4J2 as the default logging framework
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ResourceLeakDetector.java] -> -Dio.netty.leakDetection.level: simple
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ResourceLeakDetector.java] -> -Dio.netty.leakDetection.targetRecords: 4
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ResourceLeakDetectorFactory.java] -> Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@688ba4a0
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> -Dio.netty.noUnsafe: false
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> Java version: 11
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> sun.misc.Unsafe.theUnsafe: available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> sun.misc.Unsafe.copyMemory: available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> java.nio.Buffer.address: available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> java.nio.Bits.unaligned: available, true
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @7692cd34
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PlatformDependent0.java] -> java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> sun.misc.Unsafe: available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> maxDirectMemory: 1050673152 bytes (maybe)
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> -Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> Platform: Windows
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> -Dio.netty.maxDirectMemory: -1 bytes
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [      CleanerJava9.java] -> java.nio.ByteBuffer.cleaner(): available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> -Dio.netty.noPreferDirect: false
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [ PlatformDependent.java] -> org.jctools-core.MpscChunkedArrayQueue: available
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [InternalThreadLocalMap.java] -> -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [InternalThreadLocalMap.java] -> -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [     JdkSslContext.java] -> Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [     JdkSslContext.java] -> Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [MultithreadEventLoopGroup.java] -> -Dio.netty.eventLoopThreads: 8
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [      NioEventLoop.java] -> -Dio.netty.noKeySetOptimization: false
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [      NioEventLoop.java] -> -Dio.netty.selectorAutoRebuildThreshold: 512
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.numHeapArenas: 8
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.numDirectArenas: 8
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.pageSize: 8192
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxOrder: 11
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.chunkSize: 16777216
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.smallCacheSize: 256
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.normalCacheSize: 64
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.cacheTrimInterval: 8192
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.useCacheForAllThreads: true
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [       ByteBufUtil.java] -> -Dio.netty.allocator.type: pooled
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [       ByteBufUtil.java] -> -Dio.netty.threadLocalDirectBufferSize: 0
+[Service-0] 21/May/2023 07:50:00 PM DEBUG [       ByteBufUtil.java] -> -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[to remote] 21/May/2023 07:50:01 PM DEBUG [  DefaultChannelId.java] -> -Dio.netty.processId: 12768 (auto-detected)
+[to remote] 21/May/2023 07:50:01 PM DEBUG [           NetUtil.java] -> -Djava.net.preferIPv4Stack: false
+[to remote] 21/May/2023 07:50:01 PM DEBUG [           NetUtil.java] -> -Djava.net.preferIPv6Addresses: false
+[to remote] 21/May/2023 07:50:01 PM DEBUG [NetUtilInitializations.java] -> Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[to remote] 21/May/2023 07:50:01 PM DEBUG [           NetUtil.java] -> Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[to remote] 21/May/2023 07:50:01 PM DEBUG [  DefaultChannelId.java] -> -Dio.netty.machineId: 80:2b:f9:ff:fe:2b:dc:cf (auto-detected)
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [   AbstractByteBuf.java] -> -Dio.netty.buffer.checkAccessible: true
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [   AbstractByteBuf.java] -> -Dio.netty.buffer.checkBounds: true
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [ResourceLeakDetectorFactory.java] -> Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@366c1b2d
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [          Recycler.java] -> -Dio.netty.recycler.maxCapacityPerThread: 4096
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [          Recycler.java] -> -Dio.netty.recycler.maxSharedCapacityFactor: 2
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [          Recycler.java] -> -Dio.netty.recycler.linkCapacity: 16
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [          Recycler.java] -> -Dio.netty.recycler.ratio: 8
+[lient-1-2] 21/May/2023 07:50:01 PM DEBUG [          Recycler.java] -> -Dio.netty.recycler.delayedQueue.ratio: 8
+[lient-1-2] 21/May/2023 07:50:03 PM DEBUG [            Brotli.java] -> brotli4j not in the classpath; Brotli support will be unavailable.
+[Service-0] 21/May/2023 07:50:04 PM DEBUG [ ThreadLocalRandom.java] -> -Dio.netty.initialSeedUniquifier: 0x998f59650a13c405
+[Service-0] 21/May/2023 07:50:05 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 123456|Test *****
+[Service-0] 21/May/2023 07:50:05 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0] 21/May/2023 07:50:08 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[Service-0] 21/May/2023 07:50:08 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

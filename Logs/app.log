@@ -1,0 +1,76 @@
+[Service-1]19/Jan/2024 09:49:03 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-1]19/Jan/2024 09:49:15 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-0]19/Jan/2024 09:49:15 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 123456|Test *****
+[Service-2]19/Jan/2024 09:49:15 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+[Service-0]19/Jan/2024 09:49:22 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:49:27 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:49:27 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:49:33 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-0]19/Jan/2024 09:49:33 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]19/Jan/2024 09:49:34 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]19/Jan/2024 09:49:36 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:49:36 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]19/Jan/2024 09:49:37 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-1]19/Jan/2024 09:49:37 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-2]19/Jan/2024 09:49:37 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-1]19/Jan/2024 09:49:39 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-2]19/Jan/2024 09:49:39 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1]19/Jan/2024 09:49:41 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:49:42 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:49:46 PM INFO  [  OrangeWebElement.java] -> Clicking on Performance
+[Service-0]19/Jan/2024 09:49:50 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:49:51 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave
+[Service-2]19/Jan/2024 09:49:53 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:49:54 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:49:58 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-0]19/Jan/2024 09:49:59 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:50:02 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:50:06 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:50:08 PM INFO  [  OrangeWebElement.java] -> Clicking on 2024
+[Service-2]19/Jan/2024 09:50:12 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:50:12 PM INFO  [       OrangeUtils.java] -> Click using JS on 2021
+[Service-0]19/Jan/2024 09:50:12 PM INFO  [  OrangeWebElement.java] -> Clicking on January
+[Service-0]19/Jan/2024 09:50:16 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-1]19/Jan/2024 09:50:17 PM INFO  [  OrangeWebElement.java] -> Clicking on Reports
+[Service-1]19/Jan/2024 09:50:17 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave Entitlements and Usage Report
+[Service-1]19/Jan/2024 09:50:18 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:50:20 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578|Test dashboard widget *****
+[Service-2]19/Jan/2024 09:50:20 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-0]19/Jan/2024 09:50:21 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]19/Jan/2024 09:50:21 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:50:21 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-2]19/Jan/2024 09:50:24 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+[Service-0]19/Jan/2024 09:50:30 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-2]19/Jan/2024 09:50:30 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:50:31 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:50:39 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]19/Jan/2024 09:50:39 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-2]19/Jan/2024 09:50:39 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]19/Jan/2024 09:50:40 PM INFO  [  OrangeWebElement.java] -> Clicking on 2024
+[Service-2]19/Jan/2024 09:50:42 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:50:44 PM INFO  [       OrangeUtils.java] -> Click using JS on 2022
+[Service-0]19/Jan/2024 09:50:44 PM INFO  [  OrangeWebElement.java] -> Clicking on December
+[Service-0]19/Jan/2024 09:50:48 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-2]19/Jan/2024 09:50:52 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 09:50:53 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]19/Jan/2024 09:50:53 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:00 PM INFO  [  OrangeWebElement.java] -> Clicking on Recruitment
+[Service-0]19/Jan/2024 09:51:01 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[Service-0]19/Jan/2024 09:51:01 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-2]19/Jan/2024 09:51:03 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:15 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:25 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:35 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:45 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-2]19/Jan/2024 09:51:45 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:51:55 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-2]19/Jan/2024 09:51:56 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:52:06 PM INFO  [  OrangeWebElement.java] -> Clicking on Time
+[Service-2]19/Jan/2024 09:52:08 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:52:18 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:52:27 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-1]19/Jan/2024 09:52:35 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-1]19/Jan/2024 09:52:35 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-2]19/Jan/2024 09:52:38 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-2]19/Jan/2024 09:52:46 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578789456|Test table methods *****
+[Service-2]19/Jan/2024 09:52:46 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

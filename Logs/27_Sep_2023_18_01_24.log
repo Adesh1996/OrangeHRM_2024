@@ -1,0 +1,93 @@
+2023-09-27 18:01:24 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-09-27 18:03:49 DEBUG InternalLoggerFactory:76 - Using Log4J2 as the default logging framework
+2023-09-27 18:03:49 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2023-09-27 18:03:49 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2023-09-27 18:03:49 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@bd0cbc5
+2023-09-27 18:03:49 DEBUG PlatformDependent0:497 - -Dio.netty.noUnsafe: false
+2023-09-27 18:03:49 DEBUG PlatformDependent0:1001 - Java version: 11
+2023-09-27 18:03:49 DEBUG PlatformDependent0:137 - sun.misc.Unsafe.theUnsafe: available
+2023-09-27 18:03:49 DEBUG PlatformDependent0:161 - sun.misc.Unsafe.copyMemory: available
+2023-09-27 18:03:49 DEBUG PlatformDependent0:193 - sun.misc.Unsafe.storeFence: available
+2023-09-27 18:03:49 DEBUG PlatformDependent0:236 - java.nio.Buffer.address: available
+2023-09-27 18:03:49 DEBUG PlatformDependent0:321 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2023-09-27 18:03:49 DEBUG PlatformDependent0:386 - java.nio.Bits.unaligned: available, true
+2023-09-27 18:03:49 DEBUG PlatformDependent0:453 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @766653e6
+2023-09-27 18:03:49 DEBUG PlatformDependent0:483 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2023-09-27 18:03:49 DEBUG PlatformDependent:1159 - sun.misc.Unsafe: available
+2023-09-27 18:03:49 DEBUG PlatformDependent:1270 - maxDirectMemory: 1050673152 bytes (maybe)
+2023-09-27 18:03:49 DEBUG PlatformDependent:1289 - -Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+2023-09-27 18:03:49 DEBUG PlatformDependent:1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-09-27 18:03:49 DEBUG PlatformDependent:1119 - Platform: Windows
+2023-09-27 18:03:49 DEBUG PlatformDependent:178 - -Dio.netty.maxDirectMemory: -1 bytes
+2023-09-27 18:03:49 DEBUG PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-09-27 18:03:49 DEBUG CleanerJava9:71 - java.nio.ByteBuffer.cleaner(): available
+2023-09-27 18:03:49 DEBUG PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2023-09-27 18:03:49 DEBUG PlatformDependent:1010 - org.jctools-core.MpscChunkedArrayQueue: available
+2023-09-27 18:03:49 DEBUG InternalThreadLocalMap:100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-09-27 18:03:49 DEBUG InternalThreadLocalMap:101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-09-27 18:03:50 DEBUG JdkSslContext:83 - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-09-27 18:03:50 DEBUG JdkSslContext:84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-09-27 18:03:50 DEBUG GlobalEventExecutor:53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2023-09-27 18:03:50 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+2023-09-27 18:03:50 DEBUG NioEventLoop:110 - -Dio.netty.noKeySetOptimization: false
+2023-09-27 18:03:50 DEBUG NioEventLoop:111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:157 - -Dio.netty.allocator.numHeapArenas: 8
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.numDirectArenas: 8
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:160 - -Dio.netty.allocator.pageSize: 8192
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:165 - -Dio.netty.allocator.maxOrder: 9
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:169 - -Dio.netty.allocator.chunkSize: 4194304
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:170 - -Dio.netty.allocator.smallCacheSize: 256
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:171 - -Dio.netty.allocator.normalCacheSize: 64
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:175 - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-09-27 18:03:50 DEBUG PooledByteBufAllocator:176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-09-27 18:03:50 DEBUG ByteBufUtil:89 - -Dio.netty.allocator.type: pooled
+2023-09-27 18:03:50 DEBUG ByteBufUtil:98 - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-09-27 18:03:50 DEBUG ByteBufUtil:101 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-09-27 18:03:51 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 12444 (auto-detected)
+2023-09-27 18:03:51 DEBUG NetUtil:148 - -Djava.net.preferIPv4Stack: false
+2023-09-27 18:03:51 DEBUG NetUtil:149 - -Djava.net.preferIPv6Addresses: false
+2023-09-27 18:03:51 DEBUG NetUtilInitializations:145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-09-27 18:03:51 DEBUG NetUtil:206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-09-27 18:03:51 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 80:2b:f9:ff:fe:2b:dc:cf (auto-detected)
+2023-09-27 18:03:51 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2023-09-27 18:03:51 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2023-09-27 18:03:51 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2b940b1f
+2023-09-27 18:03:51 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-09-27 18:03:51 DEBUG Recycler:97 - -Dio.netty.recycler.ratio: 8
+2023-09-27 18:03:51 DEBUG Recycler:98 - -Dio.netty.recycler.chunkSize: 32
+2023-09-27 18:03:51 DEBUG Recycler:99 - -Dio.netty.recycler.blocking: false
+2023-09-27 18:03:51 DEBUG Recycler:100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2023-09-27 18:03:54 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-09-27 18:03:54 DEBUG ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x2c291cb5d2959581
+2023-09-27 18:03:55 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-09-27 18:04:32 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-09-27 18:04:34 INFO  124578|Test dashboard widget:40 - Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+2023-09-27 18:04:44 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-09-27 18:04:44 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-09-27 18:04:44 INFO  OrangeWebElement:62 - Clicking on Login
+2023-09-27 18:04:57 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-09-27 18:05:08 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-09-27 18:05:08 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-09-27 18:05:09 INFO  OrangeWebElement:62 - Clicking on Time
+2023-09-27 18:05:21 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-09-27 18:05:23 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-09-27 18:05:24 INFO  OrangeWebElement:62 - Clicking on Login
+2023-09-27 18:05:26 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-09-27 18:05:26 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-09-27 18:05:27 INFO  OrangeWebElement:62 - Clicking on Login
+2023-09-27 18:05:27 INFO  OrangeWebElement:62 - Clicking on Leave
+2023-09-27 18:05:30 INFO  124578789456|Test table methods:47 - Scenerio Failed... Taking Screenshot
+2023-09-27 18:05:32 INFO  124578|Test dashboard widget:47 - Scenerio Failed... Taking Screenshot
+2023-09-27 18:05:34 INFO  OrangeWebElement:62 - Clicking on Reports
+2023-09-27 18:05:35 INFO  OrangeWebElement:62 - Clicking on Leave Entitlements and Usage Report
+2023-09-27 18:05:37 INFO  OrangeWebElement:62 - Clicking on DB Cooper
+2023-09-27 18:05:38 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-09-27 18:05:39 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-09-27 18:05:39 INFO  124578789456|Test table methods:65 - [ closing driver ]
+2023-09-27 18:05:41 INFO  OrangeWebElement:62 - Clicking on DB Cooper
+2023-09-27 18:05:41 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-09-27 18:05:42 INFO  124578|Test dashboard widget:64 - Finished execuation of scenario : > *****124578|Test dashboard widget *****
+2023-09-27 18:05:42 INFO  124578|Test dashboard widget:65 - [ closing driver ]

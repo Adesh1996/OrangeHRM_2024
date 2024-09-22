@@ -1,0 +1,5 @@
+[Service-0]19/Jan/2024 08:09:53 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0]19/Jan/2024 08:10:01 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-0]19/Jan/2024 08:10:08 PM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0]19/Jan/2024 08:12:12 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-0]19/Jan/2024 08:12:12 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

@@ -1,0 +1,16 @@
+com\orangeHRM\stepdefs\DBSteps.class
+com\orangeHRM\stepdefs\DocumentsSteps.class
+com\orangeHRM\stepdefs\OrangeGridSteps.class
+com\orangeHRM\runner\RerunCucumberTest.class
+com\orangeHRM\stepdefs\OrangeTableSteps.class
+com\orangeHRM\stepdefs\OrangeCommonSteps.class
+com\orangeHRM\stepdefs\OrangeWidgetSteps.class
+com\orangeHRM\stepdefs\CucumberHooks.class
+com\orangeHRM\stepdefs\HomeOfficeSteps.class
+com\orangeHRM\runner\RunCucumberTest.class
+com\orangeHRM\stepdefs\UIVerificationSteps.class
+com\orangeHRM\stepdefs\ReportsSteps.class
+com\orangeHRM\stepdefs\CommonActions.class
+com\orangeHRM\stepdefs\BaseSteps.class
+com\orangeHRM\stepdefs\LoginSteps.class
+com\orangeHRM\stepdefs\UINavigationSteps.class

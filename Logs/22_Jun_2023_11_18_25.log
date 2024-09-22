@@ -1,0 +1,96 @@
+[Service-1] 22/Jun/2023 11:18:25 AM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [InternalLoggerFactory.java] -> Using Log4J2 as the default logging framework
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ResourceLeakDetector.java] -> -Dio.netty.leakDetection.level: simple
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ResourceLeakDetector.java] -> -Dio.netty.leakDetection.targetRecords: 4
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ResourceLeakDetectorFactory.java] -> Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@73b85ae
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> -Dio.netty.noUnsafe: false
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> Java version: 11
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> sun.misc.Unsafe.theUnsafe: available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> sun.misc.Unsafe.copyMemory: available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> java.nio.Buffer.address: available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> java.nio.Bits.unaligned: available, true
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @93081b6
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PlatformDependent0.java] -> java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> sun.misc.Unsafe: available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> maxDirectMemory: 1050673152 bytes (maybe)
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> -Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> Platform: Windows
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> -Dio.netty.maxDirectMemory: -1 bytes
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [      CleanerJava9.java] -> java.nio.ByteBuffer.cleaner(): available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> -Dio.netty.noPreferDirect: false
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [ PlatformDependent.java] -> org.jctools-core.MpscChunkedArrayQueue: available
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [InternalThreadLocalMap.java] -> -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [InternalThreadLocalMap.java] -> -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [     JdkSslContext.java] -> Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [     JdkSslContext.java] -> Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [MultithreadEventLoopGroup.java] -> -Dio.netty.eventLoopThreads: 8
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [      NioEventLoop.java] -> -Dio.netty.noKeySetOptimization: false
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [      NioEventLoop.java] -> -Dio.netty.selectorAutoRebuildThreshold: 512
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.numHeapArenas: 8
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.numDirectArenas: 8
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.pageSize: 8192
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxOrder: 11
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.chunkSize: 16777216
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.smallCacheSize: 256
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.normalCacheSize: 64
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.cacheTrimInterval: 8192
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.useCacheForAllThreads: true
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [PooledByteBufAllocator.java] -> -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [       ByteBufUtil.java] -> -Dio.netty.allocator.type: pooled
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [       ByteBufUtil.java] -> -Dio.netty.threadLocalDirectBufferSize: 0
+[Service-1] 22/Jun/2023 11:18:28 AM DEBUG [       ByteBufUtil.java] -> -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[to remote] 22/Jun/2023 11:18:30 AM DEBUG [  DefaultChannelId.java] -> -Dio.netty.processId: 15228 (auto-detected)
+[to remote] 22/Jun/2023 11:18:30 AM DEBUG [           NetUtil.java] -> -Djava.net.preferIPv4Stack: false
+[to remote] 22/Jun/2023 11:18:30 AM DEBUG [           NetUtil.java] -> -Djava.net.preferIPv6Addresses: false
+[to remote] 22/Jun/2023 11:18:31 AM DEBUG [NetUtilInitializations.java] -> Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[to remote] 22/Jun/2023 11:18:31 AM DEBUG [           NetUtil.java] -> Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[to remote] 22/Jun/2023 11:18:31 AM DEBUG [  DefaultChannelId.java] -> -Dio.netty.machineId: 80:2b:f9:ff:fe:2b:dc:cf (auto-detected)
+[lient-1-2] 22/Jun/2023 11:18:31 AM DEBUG [   AbstractByteBuf.java] -> -Dio.netty.buffer.checkAccessible: true
+[lient-1-2] 22/Jun/2023 11:18:31 AM DEBUG [   AbstractByteBuf.java] -> -Dio.netty.buffer.checkBounds: true
+[lient-1-2] 22/Jun/2023 11:18:31 AM DEBUG [ResourceLeakDetectorFactory.java] -> Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@12ef9352
+[lient-1-3] 22/Jun/2023 11:18:31 AM DEBUG [          Recycler.java] -> -Dio.netty.recycler.maxCapacityPerThread: 4096
+[lient-1-3] 22/Jun/2023 11:18:31 AM DEBUG [          Recycler.java] -> -Dio.netty.recycler.maxSharedCapacityFactor: 2
+[lient-1-3] 22/Jun/2023 11:18:31 AM DEBUG [          Recycler.java] -> -Dio.netty.recycler.linkCapacity: 16
+[lient-1-3] 22/Jun/2023 11:18:31 AM DEBUG [          Recycler.java] -> -Dio.netty.recycler.ratio: 8
+[lient-1-3] 22/Jun/2023 11:18:31 AM DEBUG [          Recycler.java] -> -Dio.netty.recycler.delayedQueue.ratio: 8
+[lient-1-2] 22/Jun/2023 11:18:35 AM DEBUG [            Brotli.java] -> brotli4j not in the classpath; Brotli support will be unavailable.
+[Service-1] 22/Jun/2023 11:18:36 AM DEBUG [ ThreadLocalRandom.java] -> -Dio.netty.initialSeedUniquifier: 0xdea6c30598196f61
+[Service-0] 22/Jun/2023 11:18:37 AM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 123456|Test *****
+[Service-1] 22/Jun/2023 11:18:37 AM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 457896|Test file upload *****
+[Service-0] 22/Jun/2023 11:18:50 AM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-1] 22/Jun/2023 11:18:51 AM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-0] 22/Jun/2023 11:18:51 AM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0] 22/Jun/2023 11:18:52 AM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1] 22/Jun/2023 11:18:52 AM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-1] 22/Jun/2023 11:18:52 AM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0] 22/Jun/2023 11:18:55 AM INFO  [  OrangeWebElement.java] -> Clicking on Performance
+[Service-1] 22/Jun/2023 11:18:57 AM INFO  [  OrangeWebElement.java] -> Clicking on My Info
+[Service-0] 22/Jun/2023 11:19:00 AM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-0] 22/Jun/2023 11:19:02 AM INFO  [  OrangeWebElement.java] -> Clicking on 2023
+[Service-1] 22/Jun/2023 11:19:05 AM INFO  [  OrangeWebElement.java] -> Clicking on Personal Details
+[Service-0] 22/Jun/2023 11:19:06 AM INFO  [       OrangeUtils.java] -> Click using JS on 2021
+[Service-0] 22/Jun/2023 11:19:07 AM INFO  [  OrangeWebElement.java] -> Clicking on January
+[Service-1] 22/Jun/2023 11:19:08 AM INFO  [  OrangeWebElement.java] -> Clicking on Add
+[Service-1] 22/Jun/2023 11:19:10 AM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****457896|Test file upload *****
+[Service-1] 22/Jun/2023 11:19:10 AM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1] 22/Jun/2023 11:19:11 AM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 22/Jun/2023 11:19:11 AM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-1] 22/Jun/2023 11:19:13 AM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-0] 22/Jun/2023 11:19:16 AM INFO  [     CucumberHooks.java] -> Scenerio Failed... Taking Screenshot
+[Service-0] 22/Jun/2023 11:19:23 AM INFO  [  OrangeWebElement.java] -> Clicking on Paul Collings
+[Service-0] 22/Jun/2023 11:19:23 AM INFO  [  OrangeWebElement.java] -> Clicking on Logout
+[Service-0] 22/Jun/2023 11:19:26 AM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[Service-0] 22/Jun/2023 11:19:26 AM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1] 22/Jun/2023 11:19:39 AM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-1] 22/Jun/2023 11:19:39 AM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-1] 22/Jun/2023 11:19:40 AM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1] 22/Jun/2023 11:19:42 AM INFO  [  OrangeWebElement.java] -> Clicking on Leave
+[Service-1] 22/Jun/2023 11:19:47 AM INFO  [  OrangeWebElement.java] -> Clicking on Reports
+[Service-1] 22/Jun/2023 11:19:47 AM INFO  [  OrangeWebElement.java] -> Clicking on Leave Entitlements and Usage Report
+[Service-1] 22/Jun/2023 11:21:49 AM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-1] 22/Jun/2023 11:21:49 AM INFO  [     CucumberHooks.java] -> [ closing driver ]

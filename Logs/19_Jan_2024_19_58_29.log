@@ -1,0 +1,347 @@
+[Service-1]19/Jan/2024 07:58:30 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-1]19/Jan/2024 07:58:55 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-1]19/Jan/2024 07:58:55 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1]19/Jan/2024 07:58:55 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-1]19/Jan/2024 07:59:04 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+[Service-2]19/Jan/2024 07:59:04 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+[Service-0]19/Jan/2024 07:59:06 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 123456|Test *****
+[Service-0]19/Jan/2024 07:59:17 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-2]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-1]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-0]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-2]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-1]19/Jan/2024 07:59:18 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-2]19/Jan/2024 07:59:19 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-1]19/Jan/2024 07:59:19 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]19/Jan/2024 07:59:21 PM INFO  [  OrangeWebElement.java] -> Clicking on Performance
+[Service-0]19/Jan/2024 07:59:25 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-1]19/Jan/2024 07:59:25 PM INFO  [  OrangeWebElement.java] -> Clicking on Recruitment
+[Service-0]19/Jan/2024 07:59:27 PM INFO  [  OrangeWebElement.java] -> Clicking on 2024
+[Service-2]19/Jan/2024 07:59:29 PM INFO  [  OrangeWebElement.java] -> Clicking on Test 94 Larry
+[Service-2]19/Jan/2024 07:59:29 PM INFO  [  OrangeWebElement.java] -> Clicking on Logout
+[Service-2]19/Jan/2024 07:59:31 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578|Test dashboard widget *****
+[Service-2]19/Jan/2024 07:59:31 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1]19/Jan/2024 07:59:31 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-1]19/Jan/2024 07:59:32 PM INFO  [OrangeTableElement.java] -> Captured elements of column : Status
+[Service-0]19/Jan/2024 07:59:32 PM INFO  [       OrangeUtils.java] -> Click using JS on 2021
+[Service-0]19/Jan/2024 07:59:32 PM INFO  [  OrangeWebElement.java] -> Clicking on January
+[Service-1]19/Jan/2024 07:59:32 PM INFO  [  OrangeWebElement.java] -> Clicking on Time
+[Service-0]19/Jan/2024 07:59:36 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-0]19/Jan/2024 07:59:40 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]19/Jan/2024 07:59:41 PM INFO  [  OrangeWebElement.java] -> Clicking on 
+[Service-0]19/Jan/2024 07:59:42 PM INFO  [  OrangeWebElement.java] -> Clicking on 2024
+[Service-0]19/Jan/2024 07:59:46 PM INFO  [       OrangeUtils.java] -> Click using JS on 2022
+[Service-0]19/Jan/2024 07:59:47 PM INFO  [  OrangeWebElement.java] -> Clicking on December
+[Service-1]19/Jan/2024 07:59:49 PM INFO  [  OrangeWebElement.java] -> Clicking on PIM
+[Service-0]19/Jan/2024 07:59:51 PM INFO  [       OrangeUtils.java] -> Click using JS on December
+[Service-1]19/Jan/2024 07:59:54 PM INFO  [OrangeTableElement.java] -> Captured elements of column : First (& Middle) Name
+[Service-0]19/Jan/2024 07:59:55 PM INFO  [       OrangeUtils.java] -> Click using JS on 5
+[Service-0]19/Jan/2024 07:59:55 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[Service-0]19/Jan/2024 07:59:55 PM INFO  [     CucumberHooks.java] -> [ closing driver ]
+[Service-1]19/Jan/2024 07:59:57 PM INFO  [       OrangeUtils.java] -> Scrolling on Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+Test 94 Larry
+Configuration
+Employee List
+Add Employee
+Reports
+Employee Information
+Employee Name
+Employee Id
+Employment Status
+-- Select --
+Include
+Current Employees Only
+Supervisor Name
+Job Title
+-- Select --
+Sub Unit
+-- Select --
+Reset
+Search
+
+Add
+(69) Records Found
+Id
+First (& Middle) Name
+Last Name
+Job Title
+Employment Status
+Sub Unit
+Supervisor
+Actions
+0038
+Aaliyah
+Haq
+QA Lead
+Full-Time Permanent
+Quality Assurance
+Odis Adalwin
+0221
+Alice
+Duval
+Account Assistant
+Full-Time Contract
+Finance
+Kevin Mathews
+0251777
+Andrei Vlademir
+Ionescu
+0253777
+Andrei Vlademir
+Ionescu
+0070
+Anthony
+Nolan
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+026098
+Arden
+MacGyver
+VP - Client Services
+Freelance
+hola
+0046
+Cassidy
+Hope
+IT Manager
+Part-Time Contract
+TechOps
+Odis Adalwin
+0204
+Cecil
+Bonaparte
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0212
+Charlie
+Carter
+QA Engineer
+Full-Time Probation
+Quality Assurance
+Aaliyah Haq
+0217
+Chenzira
+Chuki
+QA Engineer
+Full-Time Permanent
+Quality Assurance
+Aaliyah Haq
+028194
+Chung
+Buckridge
+027462
+Connie
+Metz
+027765
+Cruz
+Schmitt
+Content Specialist (Deleted)
+Full-Time Contract
+Sales
+0269B1476
+Daniel James
+Brown
+0283
+Daniel Thato
+Mphuthi
+0066
+David
+Morris
+Account Assistant
+Full-Time Permanent
+Finance
+Kevin Mathews
+0020
+Dominic
+Chase
+VP - Client Services
+Full-Time Permanent
+Administration
+John Smith
+0227
+Ehioze
+Ebo
+Account Assistant
+Full-Time Probation
+Finance
+Kevin Mathews
+0265
+Elyes
+Boudhina
+027811
+Erasmo
+Macejkovic
+025717
+Erinn
+Ryan
+0029
+Fiona
+Grace
+Software Architect
+Full-Time Permanent
+Development
+Odis Adalwin
+025818
+Flavia
+Zboncak
+028732
+Forest
+Moore
+028578
+Foster
+Emmerich
+0099
+Garry
+White
+HR Associate
+Full-Time Permanent
+Human Resources
+Test 94 Larry
+0235
+Goutam
+Ganesh
+Sales Representative
+Full-Time Permanent
+Sales
+Linda Anderson
+0095
+Jacqueline
+White
+Support Specialist
+Full-Time Contract
+Technical Support
+Dominic Chase
+0243
+Jadine
+Jackie
+HR Associate
+Full-Time Probation
+Human Resources
+Test 94 Larry
+0062
+Jasmine
+Morgan
+Financial Analyst
+Full-Time Probation
+Finance
+Kevin Mathews
+0083
+Joe
+Root
+Content Specialist (Deleted)
+Full-Time Probation
+Marketing
+Melan Peiris
+0011
+John
+Smith
+Chief Executive Officer
+Full-Time Permanent
+Administration
+0267S4582
+John Jasuha
+Smith
+0260
+Johny
+Miller
+0054
+Jordan
+Mathews
+Database Administrator (Deleted)
+Full-Time Contract
+TechOps
+Cassidy Hope
+0254
+Jyoti
+Jadhav
+027443
+Keesha
+Lakin
+0058
+Kevin
+Mathews
+Finance Manager
+Full-Time Permanent
+Finance
+Peter Anderson
+0239
+Kiyara
+Hu
+HR Associate
+Full-Time Permanent
+Human Resources
+Test 94 Larry
+02593
+Lenny
+Quigley
+02761
+Leonore
+Schmitt
+0016
+Linda Jane
+Anderson
+VP - Sales & Marketing
+Full-Time Permanent
+Administration
+John Smith
+0208
+Lisa
+Andrews
+Software Engineer
+Full-Time Probation
+Development
+Fiona Grace
+0091
+Luke
+Wright
+Head of Support
+Full-Time Permanent
+Technical Support
+Dominic Chase
+0050
+Maggie
+Manning
+Network Administrator
+Full-Time Probation
+TechOps
+Cassidy Hope
+0266200
+Mahatma
+Gandhi
+0272200
+Mahatma
+Gandhi
+0264200
+Mahatma
+Gandhi
+0270200
+Mahatma
+Gandhi
+0268A0735
+Marry Ann
+Anna
+1
+2
+OrangeHRM OS 5.5
+© 2005 - 2024 OrangeHRM, Inc. All rights reserved.
+[Service-1]19/Jan/2024 07:59:59 PM INFO  [  OrangeWebElement.java] -> Clicking on Test 94 Larry
+[Service-1]19/Jan/2024 08:00:00 PM INFO  [  OrangeWebElement.java] -> Clicking on Logout
+[Service-1]19/Jan/2024 08:00:02 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****124578789456|Test table methods *****
+[Service-1]19/Jan/2024 08:00:02 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

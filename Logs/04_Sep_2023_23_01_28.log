@@ -1,0 +1,413 @@
+2023-09-04 23:01:28 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-09-04 23:01:33 DEBUG InternalLoggerFactory:76 - Using Log4J2 as the default logging framework
+2023-09-04 23:01:33 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2023-09-04 23:01:33 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2023-09-04 23:01:33 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@9596043
+2023-09-04 23:01:33 DEBUG PlatformDependent0:497 - -Dio.netty.noUnsafe: false
+2023-09-04 23:01:33 DEBUG PlatformDependent0:1001 - Java version: 11
+2023-09-04 23:01:33 DEBUG PlatformDependent0:137 - sun.misc.Unsafe.theUnsafe: available
+2023-09-04 23:01:33 DEBUG PlatformDependent0:161 - sun.misc.Unsafe.copyMemory: available
+2023-09-04 23:01:33 DEBUG PlatformDependent0:193 - sun.misc.Unsafe.storeFence: available
+2023-09-04 23:01:33 DEBUG PlatformDependent0:236 - java.nio.Buffer.address: available
+2023-09-04 23:01:33 DEBUG PlatformDependent0:321 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2023-09-04 23:01:33 DEBUG PlatformDependent0:386 - java.nio.Bits.unaligned: available, true
+2023-09-04 23:01:33 DEBUG PlatformDependent0:453 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @7ba8c737
+2023-09-04 23:01:33 DEBUG PlatformDependent0:483 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2023-09-04 23:01:33 DEBUG PlatformDependent:1159 - sun.misc.Unsafe: available
+2023-09-04 23:01:33 DEBUG PlatformDependent:1270 - maxDirectMemory: 1050673152 bytes (maybe)
+2023-09-04 23:01:33 DEBUG PlatformDependent:1289 - -Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+2023-09-04 23:01:33 DEBUG PlatformDependent:1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-09-04 23:01:33 DEBUG PlatformDependent:1119 - Platform: Windows
+2023-09-04 23:01:33 DEBUG PlatformDependent:178 - -Dio.netty.maxDirectMemory: -1 bytes
+2023-09-04 23:01:33 DEBUG PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-09-04 23:01:33 DEBUG CleanerJava9:71 - java.nio.ByteBuffer.cleaner(): available
+2023-09-04 23:01:33 DEBUG PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2023-09-04 23:01:33 DEBUG PlatformDependent:1010 - org.jctools-core.MpscChunkedArrayQueue: available
+2023-09-04 23:01:33 DEBUG InternalThreadLocalMap:100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-09-04 23:01:33 DEBUG InternalThreadLocalMap:101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-09-04 23:01:33 DEBUG JdkSslContext:83 - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-09-04 23:01:33 DEBUG JdkSslContext:84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-09-04 23:01:33 DEBUG GlobalEventExecutor:53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2023-09-04 23:01:33 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+2023-09-04 23:01:33 DEBUG NioEventLoop:110 - -Dio.netty.noKeySetOptimization: false
+2023-09-04 23:01:33 DEBUG NioEventLoop:111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:157 - -Dio.netty.allocator.numHeapArenas: 8
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.numDirectArenas: 8
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:160 - -Dio.netty.allocator.pageSize: 8192
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:165 - -Dio.netty.allocator.maxOrder: 9
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:169 - -Dio.netty.allocator.chunkSize: 4194304
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:170 - -Dio.netty.allocator.smallCacheSize: 256
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:171 - -Dio.netty.allocator.normalCacheSize: 64
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:175 - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-09-04 23:01:33 DEBUG PooledByteBufAllocator:176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-09-04 23:01:33 DEBUG ByteBufUtil:89 - -Dio.netty.allocator.type: pooled
+2023-09-04 23:01:33 DEBUG ByteBufUtil:98 - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-09-04 23:01:33 DEBUG ByteBufUtil:101 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-09-04 23:01:34 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 6048 (auto-detected)
+2023-09-04 23:01:34 DEBUG NetUtil:148 - -Djava.net.preferIPv4Stack: false
+2023-09-04 23:01:34 DEBUG NetUtil:149 - -Djava.net.preferIPv6Addresses: false
+2023-09-04 23:01:35 DEBUG NetUtilInitializations:145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-09-04 23:01:35 DEBUG NetUtil:206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-09-04 23:01:35 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 80:2b:f9:ff:fe:2b:dc:cf (auto-detected)
+2023-09-04 23:01:35 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2023-09-04 23:01:35 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2023-09-04 23:01:35 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5f79455e
+2023-09-04 23:01:35 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-09-04 23:01:35 DEBUG Recycler:97 - -Dio.netty.recycler.ratio: 8
+2023-09-04 23:01:35 DEBUG Recycler:98 - -Dio.netty.recycler.chunkSize: 32
+2023-09-04 23:01:35 DEBUG Recycler:99 - -Dio.netty.recycler.blocking: false
+2023-09-04 23:01:35 DEBUG Recycler:100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2023-09-04 23:01:37 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-09-04 23:01:37 DEBUG ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x100dfa39c00e71a3
+2023-09-04 23:01:38 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-09-04 23:01:46 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-09-04 23:01:46 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-09-04 23:01:47 INFO  OrangeWebElement:62 - Clicking on Login
+2023-09-04 23:01:52 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-09-04 23:01:57 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-09-04 23:01:58 INFO  OrangeTableElement:161 - Captured elements of column : Status
+2023-09-04 23:01:58 INFO  OrangeWebElement:62 - Clicking on Time
+2023-09-04 23:02:15 INFO  OrangeWebElement:62 - Clicking on PIM
+2023-09-04 23:02:19 INFO  OrangeTableElement:161 - Captured elements of column : First (& Middle) Name
+2023-09-04 23:02:22 INFO  OrangeUtils:685 - Scrolling on Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+PaulDavid CollingsYen
+Configuration
+Employee List
+Add Employee
+Reports
+Employee Information
+Employee Name
+Employee Id
+Employment Status
+-- Select --
+Include
+Current Employees Only
+Supervisor Name
+Job Title
+-- Select --
+Sub Unit
+-- Select --
+Reset
+Search
+
+Add
+(52) Records Found
+Id
+First (& Middle) Name
+Last Name
+Job Title
+Employment Status
+Sub Unit
+Supervisor
+Actions
+0344
+@
+#
+0038
+Aaliyah
+Haq
+QA Lead
+Full-Time Permanent
+Quality Assurance
+Odis Adalwin
+0221
+Alice
+Duval
+Account Assistant
+Full-Time Contract
+Finance
+Kevin Mathews
+0251777
+Andrei Vlademir
+Ionescu
+0253777
+Andrei Vlademir
+Ionescu
+0070
+Anthony
+Nolan
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+0262
+as as
+as
+0046
+Cassidy
+Hope
+IT Manager
+Part-Time Contract
+TechOps
+Odis Adalwin
+0204
+Cecil
+Bonaparte
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0212
+Charlie
+Carter
+QA Engineer
+Full-Time Probation
+Quality Assurance
+Aaliyah Haq
+0217
+Chenzira
+Chuki
+QA Engineer
+Full-Time Permanent
+Quality Assurance
+Aaliyah Haq
+0066
+David
+Morris
+Account Assistant
+Full-Time Permanent
+Finance
+Kevin Mathews
+0257@
+dd
+dd
+0020
+Dominic
+Chase
+VP - Client Services
+Full-Time Permanent
+Administration
+John Smith
+0227
+Ehioze
+Ebo
+Account Assistant
+Full-Time Probation
+Finance
+Kevin Mathews
+0029
+Fiona
+Grace
+Software Architect
+Full-Time Permanent
+Development
+Odis Adalwin
+0099
+Garry
+White
+HR Associate
+Full-Time Permanent
+Human Resources
+PaulDavid CollingsYen
+0258
+ghdh
+hhdh
+0264
+gjg hjfg
+jgjg
+0235
+Goutam
+Ganesh
+Sales Representative
+Full-Time Permanent
+Sales
+Linda Anderson
+0095
+Jacqueline
+White
+Support Specialist
+Full-Time Contract
+Technical Support
+Dominic Chase
+0243
+Jadine
+Jackie
+HR Associate
+Full-Time Probation
+Human Resources
+PaulDavid CollingsYen
+0062
+Jasmine
+Morgan
+Financial Analyst
+Full-Time Probation
+Finance
+Kevin Mathews
+0083
+Joe
+Root
+Content Specialist
+Full-Time Probation
+Marketing
+Melan Peiris
+0011
+John
+Smith
+Chief Executive Officer
+Full-Time Permanent
+Administration
+0054
+Jordan
+Mathews
+Database Administrator
+Full-Time Contract
+TechOps
+Cassidy Hope
+0254
+Jyoti
+Jadhav
+0058
+Kevin
+Mathews
+Finance Manager
+Full-Time Permanent
+Finance
+Peter Anderson
+0239
+Kiyara
+Hu
+HR Associate
+Full-Time Permanent
+Human Resources
+PaulDavid CollingsYen
+0016
+Linda Jane
+Anderson
+VP - Sales & Marketing
+Full-Time Permanent
+Administration
+John Smith
+0208
+Lisa
+Andrews
+Software Engineer
+Full-Time Probation
+Development
+Fiona Grace
+0091
+Luke
+Wright
+Head of Support
+Full-Time Permanent
+Technical Support
+Dominic Chase
+0050
+Maggie
+Manning
+Network Administrator
+Full-Time Probation
+TechOps
+Cassidy Hope
+0078
+Melan
+Peiris
+Social Media Marketer
+Full-Time Permanent
+Marketing
+Linda Anderson
+mohan
+k
+IT Manager
+0231
+Nathan
+Elliot
+Sales Representative
+Full-Time Probation
+Sales
+Linda Anderson
+0263504
+Neelima
+Sinagam
+0074
+Nina
+Patel
+Pre-Sales Coordinator
+Full-Time Contract
+Sales
+Anthony Nolan
+0002
+Odis
+Adalwin
+Chief Technical Officer
+Full-Time Permanent
+Administration
+John Smith
+0001
+Orange
+Test
+0024
+PaulDavid Tang
+CollingsYen
+HR Manager
+Full-Time Permanent
+Human Resources
+John Smith
+0007
+Peter Mac
+Anderson
+Chief Financial Officer
+Full-Time Probation
+Administration
+John Smith
+0247
+Rahul Mulge
+Patil
+0261
+rased as
+asd
+3322
+Ravi M
+B
+0042
+Rebecca
+Harmony
+QA Engineer
+Full-Time Contract
+Quality Assurance
+Aaliyah Haq
+0034
+Russel
+Hamilton
+Software Engineer
+Full-Time Permanent
+Development
+Fiona Grace
+0087
+Sania
+Shaheen
+Customer Success Manager
+Full-Time Permanent
+Technical Support
+Dominic Chase
+0103
+Sara
+Tencrady
+Payroll Administrator
+Full-Time Permanent
+Human Resources
+PaulDavid CollingsYen
+thTest1693847008953
+Huynh
+1
+2
+OrangeHRM OS 5.5
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-09-04 23:02:23 INFO  OrangeWebElement:62 - Clicking on PaulDavid CollingsYen
+2023-09-04 23:02:24 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-09-04 23:02:25 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-09-04 23:02:25 INFO  124578789456|Test table methods:65 - [ closing driver ]

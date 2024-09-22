@@ -1,0 +1,29 @@
+2023-10-10 20:11:09 INFO  ChromeWebDriver:21 - [ Initializing chrome driver ]
+2023-10-10 20:11:58 INFO  124578|Test dashboard widget:40 - Started execuation of scenerio : > ***** 124578|Test dashboard widget *****
+2023-10-10 20:12:05 INFO  124578789456|Test table methods:40 - Started execuation of scenerio : > ***** 124578789456|Test table methods *****
+2023-10-10 20:12:09 INFO  125689|Test report steps:40 - Started execuation of scenerio : > ***** 125689|Test report steps *****
+2023-10-10 20:12:12 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:12:13 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:12:14 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:12:19 INFO  124578|Test dashboard widget:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:12:20 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:12:21 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:12:21 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:12:24 INFO  OrangeWebElement:124 - Entering text : Admin
+2023-10-10 20:12:24 INFO  OrangeWebElement:124 - Entering text : admin123
+2023-10-10 20:12:25 INFO  OrangeWebElement:62 - Clicking on Login
+2023-10-10 20:12:27 INFO  OrangeWebElement:62 - Clicking on Recruitment
+2023-10-10 20:12:30 INFO  OrangeWebElement:62 - Clicking on Leave
+2023-10-10 20:12:31 INFO  OrangeWebElement:62 - Clicking on Ahmed Ali
+2023-10-10 20:12:32 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 20:12:34 INFO  124578|Test dashboard widget:64 - Finished execuation of scenario : > *****124578|Test dashboard widget *****
+2023-10-10 20:12:34 INFO  124578|Test dashboard widget:65 - [ closing driver ]
+2023-10-10 20:12:36 INFO  OrangeWebElement:62 - Clicking on Reports
+2023-10-10 20:12:36 INFO  OrangeWebElement:62 - Clicking on Leave Entitlements and Usage Report
+2023-10-10 20:14:33 INFO  124578789456|Test table methods:47 - Scenerio Failed... Taking Screenshot
+2023-10-10 20:14:37 INFO  125689|Test report steps:64 - Finished execuation of scenario : > *****125689|Test report steps *****
+2023-10-10 20:14:37 INFO  125689|Test report steps:65 - [ closing driver ]
+2023-10-10 20:14:46 INFO  OrangeWebElement:62 - Clicking on Ahmed Ali
+2023-10-10 20:14:46 INFO  OrangeWebElement:62 - Clicking on Logout
+2023-10-10 20:14:48 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-10-10 20:14:48 INFO  124578789456|Test table methods:65 - [ closing driver ]

@@ -1,0 +1,3 @@
+2023-08-06 18:14:16 INFO  ChromeWebDriver:22 - [ Initializing chrome driver ]
+2023-08-06 18:14:17 INFO  111|Test browser methods:64 - Finished execuation of scenario : > *****111|Test browser methods *****
+2023-08-06 18:14:17 INFO  111|Test browser methods:65 - [ closing driver ]

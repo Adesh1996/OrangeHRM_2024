@@ -1,0 +1,10 @@
+[Service-0]19/Jan/2024 08:30:18 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0]19/Jan/2024 08:30:26 PM INFO  [     CucumberHooks.java] -> Started execuation of scenerio : > ***** 125689|Test report steps *****
+[Service-0]19/Jan/2024 08:31:24 PM INFO  [  OrangeWebElement.java] -> Entering text : Admin
+[Service-0]19/Jan/2024 08:31:24 PM INFO  [  OrangeWebElement.java] -> Entering text : admin123
+[Service-0]19/Jan/2024 08:31:24 PM INFO  [  OrangeWebElement.java] -> Clicking on Login
+[Service-0]19/Jan/2024 08:31:30 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave
+[Service-0]19/Jan/2024 08:31:39 PM INFO  [  OrangeWebElement.java] -> Clicking on Reports
+[Service-0]19/Jan/2024 08:31:40 PM INFO  [  OrangeWebElement.java] -> Clicking on Leave Entitlements and Usage Report
+[Service-0]19/Jan/2024 08:33:41 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****125689|Test report steps *****
+[Service-0]19/Jan/2024 08:33:41 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

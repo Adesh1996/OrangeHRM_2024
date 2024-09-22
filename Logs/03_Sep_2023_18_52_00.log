@@ -1,0 +1,5 @@
+2023-09-03 18:52:00 INFO  ChromeWebDriver:23 - [ Initializing chrome driver ]
+2023-09-03 18:52:05 INFO  124578789456|Test table methods:64 - Finished execuation of scenario : > *****124578789456|Test table methods *****
+2023-09-03 18:52:05 INFO  124578789456|Test table methods:65 - [ closing driver ]
+2023-09-03 18:52:05 INFO  111|Test browser methods:64 - Finished execuation of scenario : > *****111|Test browser methods *****
+2023-09-03 18:52:05 INFO  111|Test browser methods:65 - [ closing driver ]

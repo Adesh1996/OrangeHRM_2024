@@ -1,0 +1,3 @@
+[     main] 31/May/2023 11:14:39 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[     main] 31/May/2023 11:14:41 PM INFO  [     CucumberHooks.java] -> Finished execuation of scenario : > *****123456|Test *****
+[     main] 31/May/2023 11:14:41 PM INFO  [     CucumberHooks.java] -> [ closing driver ]

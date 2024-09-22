@@ -1,0 +1,21 @@
+
+* Good Source to read: 
+Short Summary : 
+The Page factory runs through all field of a class an calls the "decorate()" method of the "FieldDecorator" interface
+The "decorate()" method has to return an object which has the correct type.
+
+For that it needs the locator of the field so that the webelement can be identified on the website.
+
+It should work like this:
+ Page class should be instantiated -> Page Factory.init() -> decorate() for each field
+ 		choice 1: decorate for a default webelement: DefaultFieldDecorator is used for default behavior
+ 		choice 2: decorate has create proper custom webelement -> getLocator() to be able do get the webelement 
+ 		 -> getEnhancedObject() to add callback method to lazy initialize and configure the custom webelement
+ 		 -> getElementHandler(), which implements the callback method to add callback method lazy initialize and configure the custom webelement. 
+ 		 
+ Idea and code (partly) was taken from: 
+ http://www.mograblog.com/2013/08/extending-selenium-in-java.html.
+ 
+ An implementaion of a FieldDecorator to enable the usage of custom 
+ webelements via a page factory. Custom WebElements will be created via lazy
+ initialisation.		 
